@@ -1,0 +1,2 @@
+# WissenschaftlichesProjekt
+Wissenschaftliches Projekt SS2025
